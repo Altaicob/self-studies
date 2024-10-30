@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\bin\Debug\net8.0\T-F Based Calculator.exe
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\bin\Debug\net8.0\T-F Based Calculator.deps.json
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\bin\Debug\net8.0\T-F Based Calculator.runtimeconfig.json
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\bin\Debug\net8.0\T-F Based Calculator.dll
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\bin\Debug\net8.0\T-F Based Calculator.pdb
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\obj\Debug\net8.0\T-F Based Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\obj\Debug\net8.0\T-F Based Calculator.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\obj\Debug\net8.0\T-F Based Calculator.AssemblyInfo.cs
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\obj\Debug\net8.0\T-F Based Calculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\obj\Debug\net8.0\T-F Based Calculator.dll
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\obj\Debug\net8.0\refint\T-F Based Calculator.dll
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\obj\Debug\net8.0\T-F Based Calculator.pdb
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\obj\Debug\net8.0\T-F Based Calculator.genruntimeconfig.cache
+C:\Users\USER\source\repos\T-F Based Calculator\T-F Based Calculator\obj\Debug\net8.0\ref\T-F Based Calculator.dll
