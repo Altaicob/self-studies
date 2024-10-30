@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\asynchronous\asynchronous\bin\Debug\net8.0\asynchronous.exe
+C:\Users\USER\source\repos\asynchronous\asynchronous\bin\Debug\net8.0\asynchronous.deps.json
+C:\Users\USER\source\repos\asynchronous\asynchronous\bin\Debug\net8.0\asynchronous.runtimeconfig.json
+C:\Users\USER\source\repos\asynchronous\asynchronous\bin\Debug\net8.0\asynchronous.dll
+C:\Users\USER\source\repos\asynchronous\asynchronous\bin\Debug\net8.0\asynchronous.pdb
+C:\Users\USER\source\repos\asynchronous\asynchronous\obj\Debug\net8.0\asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\asynchronous\asynchronous\obj\Debug\net8.0\asynchronous.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\asynchronous\asynchronous\obj\Debug\net8.0\asynchronous.AssemblyInfo.cs
+C:\Users\USER\source\repos\asynchronous\asynchronous\obj\Debug\net8.0\asynchronous.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\asynchronous\asynchronous\obj\Debug\net8.0\asynchronous.dll
+C:\Users\USER\source\repos\asynchronous\asynchronous\obj\Debug\net8.0\refint\asynchronous.dll
+C:\Users\USER\source\repos\asynchronous\asynchronous\obj\Debug\net8.0\asynchronous.pdb
+C:\Users\USER\source\repos\asynchronous\asynchronous\obj\Debug\net8.0\asynchronous.genruntimeconfig.cache
+C:\Users\USER\source\repos\asynchronous\asynchronous\obj\Debug\net8.0\ref\asynchronous.dll
